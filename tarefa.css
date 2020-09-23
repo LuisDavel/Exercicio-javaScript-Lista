@@ -1,0 +1,37 @@
+div{
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(240, 240, 217);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input{
+    border-color: white;
+}
+
+button{
+    border-color: white;
+}
+
+ol li{
+    text-align: left;
+
+}
+
+body{
+    
+    background-color: rgb(251, 224, 189);
+}
+
+.para-fazer{
+    font-weight: bold;
+    color: red;
+}
+
+.concluida{
+    color: green; 
+    text-decoration: line-through; 
+
+}
